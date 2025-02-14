@@ -1,0 +1,5 @@
+use std::console;
+
+static main() {
+  printLine("Hello World");
+}
