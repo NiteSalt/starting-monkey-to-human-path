@@ -1,5 +1,5 @@
 use std::console;
 
 static main() {
-  printLine("Hello World");
+  printLine("I'm Egor Saveliev, not a monkey!");
 }
